@@ -57,3 +57,33 @@ To play the Snake Game on your local machine, follow these steps:
 
 ## File Structure
 
+snake-game/
+├── index.html
+├── style.css
+└── snake.js
+
+
+## Future Improvements (Optional)
+
+- **High Score Tracking:** Implement a system to store and display high scores.
+- **Power-Ups:** Add various power-ups to the game, such as speed boosts, score multipliers, or temporary invincibility.
+- **Different Levels/Maps:** Design different levels or maps with varying obstacles and challenges.
+- **Improved UI/UX:** Enhance the user interface and experience with better graphics, animations, and sound effects.
+- **Mobile Responsiveness:** Make the game responsive and playable on mobile devices.
+
+
+## Contributing (Optional)
+
+Contributions to the project are welcome! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+
+## License (Optional)
+
+This project is licensed under the [MIT License](LICENSE).  (Create a LICENSE file if you want to use the MIT License or specify another license.)
+
